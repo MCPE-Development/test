@@ -14,6 +14,17 @@
 					<string>http://localhost</string>
 				</dict>
 			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>payload.app</string>
+				<key>bundle-version</key>
+				<string>1.0.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>App</string>
+			</dict>
 		</dict>
 	</array>
 </dict>
